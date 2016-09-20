@@ -5,7 +5,9 @@
 @import "poole";
 @import "syntax";
 
-
+body {
+  font-size: 16px;
+}
 ul {
   padding: 0;
 }
@@ -45,4 +47,10 @@ h4 {
   color: #ccc;
   font-weight: normal;
   font-size: 12px;
+}
+.list {
+  font-size: 16px;
+}
+.list-title {
+  
 }
