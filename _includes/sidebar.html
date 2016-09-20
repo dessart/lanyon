@@ -25,12 +25,8 @@
       {% endif %}
     {% endfor %}
 
-    {% for node in site.categories.guide %}
-      {% if node.title != null %}
-        {% if node.layout == "page" %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-        {% endif %}
-      {% endif %}
+    {% for guide in site.categories.guide %}
+      <a class="sidebar-nav-item{% if guide.url == guide.url %} active{% endif %}" href="{{ guide.url }}">{{ guide.title }}</a>
     {% endfor %}
 
   </nav>
