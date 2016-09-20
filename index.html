@@ -4,7 +4,10 @@ title: Home
 ---
 
 <div class="posts">
-  {% for post in paginator.site.categories.guide %}
+  {% for category in site.categories %}
+  {{ category }}
+  {% endfor %}
+  {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">
