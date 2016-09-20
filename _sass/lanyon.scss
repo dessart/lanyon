@@ -50,8 +50,18 @@ h1, h2, h3, h4, h5, h6 {
   color: #313131;
   letter-spacing: -.025rem;
 }
-
-
+a {
+  color: #158ec2;
+}
+h4 {
+  font-size: 16px;
+  font-weight: lighter;
+  margin: 10px 0 15px;
+  text-transform: none;
+  a {
+    color: #555555;
+  }
+}
 /*
  * Wrapper
  *
