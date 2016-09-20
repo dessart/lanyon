@@ -23,7 +23,7 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-    <span class="sidebar-nav-item">Guide</span>
+    <a class="sidebar-nav-item" href="/guide">Guide</a>
     {% for guide in site.categories.guide %}
       <a class="sidebar-nav-item sub{% if page.url == guide.url %} active{% endif %}" href="{{ guide.url }}">{{ guide.title }}</a>
     {% endfor %}
