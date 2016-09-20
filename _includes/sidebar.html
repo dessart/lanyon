@@ -24,9 +24,9 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-
+    <span class="sidebar-nav-item">Guide</span>
     {% for guide in site.categories.guide %}
-      <a class="sidebar-nav-item{% if guide.url == guide.url %} active{% endif %}" href="{{ guide.url }}">{{ guide.title }}</a>
+      <a class="sidebar-nav-item{% if page.url == guide.url %} active{% endif %}" href="{{ guide.url }}">{{ guide.title }}</a>
     {% endfor %}
 
   </nav>
