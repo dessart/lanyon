@@ -24,10 +24,8 @@
       {% endif %}
     {% endfor %}
     <label class="sidebar-nav-item" for="sidebar-nav-item01">Guide</label>
-    <input type="checkbox" id="sidebar-nav-item01" class="accordion-input" />
-    <ul class="accordion-list">
     {% for guide in site.categories.guide %}
-      <li><a class="sidebar-nav-item{% if page.url == guide.url %} active{% endif %}" href="{{ guide.url }}">{{ guide.title }}</a></li>
+      <a class="sidebar-nav-item{% if page.url == guide.url %} active{% endif %}" href="{{ guide.url }}">{{ guide.title }}</a>
     {% endfor %}
     </ul>
   </nav>
