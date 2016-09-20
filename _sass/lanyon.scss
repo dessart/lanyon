@@ -183,12 +183,26 @@ h1, h2, h3, h4, h5, h6 {
   border-top: 1px solid rgba(255,255,255,.1);
 }
 .sidebar-nav-item.active,
+a.sidebar-nav-sub-item:hover,
+a.sidebar-nav-sub-item:focus {
+  text-decoration: none;
+  background-color: rgba(255,255,255,.1);
+  border-color: transparent;
+}
+.sidebar-nav-sub-item {
+  display: block;
+  padding: 10px 10px 10px 40px;
+  border-top: 1px solid rgba(255,255,255,.1);
+}
+.sidebar-nav-item.active,
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: none;
   background-color: rgba(255,255,255,.1);
   border-color: transparent;
 }
+
+
 
 @media (min-width: 48rem) {
   .sidebar-item {
