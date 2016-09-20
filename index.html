@@ -6,23 +6,17 @@ published: true
 <h4>使い方</h4>
 <div class="list">
   {% for guide in site.categories.guide %}
-  <div class="post">
     <a href="{{ post.url }}">
       {{ guide.title }}
     </a>
-
-  </div>
   {% endfor %}
 </div>
 
 <h4>よくある質問</h4>
 <div class="list">
   {% for faq in site.categories.faq %}
-  <div class="post">
     <a href="{{ post.url }}">
       {{ faq.title }}
     </a>
-
-  </div>
   {% endfor %}
 </div>
