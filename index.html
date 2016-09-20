@@ -6,7 +6,7 @@ published: true
 <h4>使い方</h4>
 <div class="list">
   {% for guide in site.categories.guide %}
-    <a href="{{ post.url }}">
+    <a href="{{ guide.url }}">
       {{ guide.title }}
     </a>
   {% endfor %}
@@ -15,7 +15,7 @@ published: true
 <h4>よくある質問</h4>
 <div class="list">
   {% for faq in site.categories.faq %}
-    <a href="{{ post.url }}">
+    <a href="{{ faq.url }}">
       {{ faq.title }}
     </a>
   {% endfor %}
