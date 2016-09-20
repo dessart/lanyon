@@ -32,6 +32,44 @@
     {% endfor %}
     </ul>
   </nav>
+<style>
+    label.sidebar-nav-item {
+    display: block;
+    margin: 0 0 2px 0;
+    padding :12px;
+    line-height: 1;
+    color :#fff;
+    background :#007bbb;
+    cursor :pointer;
+}
+
+input.accordion-input {
+    display: none;
+}
+
+ul.accordion-list {
+    margin: 0;
+    padding: 0;
+    background :#f4f4f4;
+    list-style: none;
+}
+
+.accordion-list li {
+    max-height: 0;
+    overflow-y: hidden;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+.accordion-input:checked+#links01 li,
+#menu_bar02:checked ~ #links02 li {
+    max-height: 46px;
+    opacity: 1;
+}
+</style>
 
   <div class="sidebar-item">
     <p>
