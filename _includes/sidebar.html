@@ -55,15 +55,18 @@ ul.accordion-list {
     margin: 0;
     padding: 0;
     list-style: none;
-    display:none;
+    height: 0;
+    overflow: hidden;
     transition: 0.2s;
 }
 
 .accordion-input:checked+ul.accordion-list {
-    max-height: 46px;
     opacity: 1;
-    display: block;
 }
+.accordion-input:checked+ul.accordion-list li {
+    height: 46px;
+}
+
 </style>
 
   <div class="sidebar-item">
