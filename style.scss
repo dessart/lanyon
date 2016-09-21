@@ -12,7 +12,11 @@ ul {
   padding: 0;
 }
 ol {
-  padding: 0;
+  padding: 0 0 0 30px;
+  list-style: decimal;
+  li {
+    list-style: decimal;
+  }
 }
 li {
   list-style: none;
