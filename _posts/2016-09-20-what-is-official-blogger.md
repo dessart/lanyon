@@ -1,7 +1,7 @@
 ---
 layout: post
 title: オフィシャルブロガーとは
-categories: guide
+categories: faq
 ---
 
 ## オフィシャルブロガーとは
