@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 招待ブロガーとは
-categories: guide
+categories: faq
 ---
 
 ## 招待ブロガーとは
