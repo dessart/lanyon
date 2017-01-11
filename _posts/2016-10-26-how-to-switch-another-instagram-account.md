@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 別のInstagramアカウントでログインしたい
-categories: guide
+categories: faq
 ---
 
 ## 別のInstagramアカウントでログインしたい
