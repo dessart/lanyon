@@ -12,7 +12,7 @@ categories: faq
 画面右上にある「≡」ボタンを押して「メニュー」を開きます。
 「ブログを書く」を押して、記事投稿画面に移動します。
 
-![IMG_0110.png (1.2 MB)](https://img.esa.io/uploads/production/attachments/662/2017/12/07/1264/d9bbdefa-6fdc-4251-838a-df62af2fad44.png)
+![IMG_0110.png (1.2 MB)](https://raw.githubusercontent.com/dessart/pressdoc/gh-pages/images/admin_infos/2017_12_07_1.png)
 
 
 記事投稿画面には、様々な機能があります。
