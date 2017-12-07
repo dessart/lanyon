@@ -5,6 +5,9 @@
 @import "poole";
 @import "syntax";
 
+//20171207 added
+.container .post img {max-width: 80%;margin: 1rem auto;}
+
 body {
   font-size: 16px;
 }
