@@ -25,7 +25,7 @@ categories: faq
 
 タイトル、本文の欄にはもちろん絵文字も使えます。
 
-![IMG_0111.jpg (249.6 kB)](https://img.esa.io/uploads/production/attachments/662/2017/12/07/1264/c0eda5ee-eee3-4793-acb3-ddcc50ef3286.jpg)
+![IMG_0111.jpg (249.6 kB)](https://raw.githubusercontent.com/dessart/pressdoc/gh-pages/images/admin_infos/2017_12_07_2.jpg)
 
 ## URL、リンクをつける
 
@@ -34,11 +34,11 @@ categories: faq
 
 リンクボタン「🔗」を押して、リンク挿入画面を呼び出して、「Text」と「URL」を入力して、「入力」ボタンを押すことでリンクが挿入されます。
 
-![IMG_0112.jpg (232.2 kB)](https://img.esa.io/uploads/production/attachments/662/2017/12/07/1264/1bbe501c-e443-4e3b-930b-2f001db6e775.jpg)
+![IMG_0112.jpg (232.2 kB)](https://raw.githubusercontent.com/dessart/pressdoc/gh-pages/images/admin_infos/2017_12_07_3.jpg)
 
 リンクにしたい文字列を選択して、リンクを挿入することもできます。
 
-![IMG_0114.jpg (393.5 kB)](https://img.esa.io/uploads/production/attachments/662/2017/12/07/1264/59bffe40-da23-43ce-bb76-297fdd8fee4e.jpg)
+![IMG_0114.jpg (393.5 kB)](https://raw.githubusercontent.com/dessart/pressdoc/gh-pages/images/admin_infos/2017_12_07_4.jpg)
 
 
 ## 画像、動画をアップロードする
@@ -47,14 +47,14 @@ categories: faq
 記事投稿画面の「アップロード」ボタンを押すと、アップロード画面が開きます。
 複数のファイルを選択することで、同時にアップロードすることが可能です。
 
-![IMG_0118.jpg (249.2 kB)](https://img.esa.io/uploads/production/attachments/662/2017/12/07/1264/e053889e-8651-4c07-bd0d-034a05c3c939.jpg)
+![IMG_0118.jpg (249.2 kB)](https://raw.githubusercontent.com/dessart/pressdoc/gh-pages/images/admin_infos/2017_12_07_5.jpg)
 
 
 ## ブロックを移動、削除する
 
 複数投稿した画像、文章の位置を、入れ替えや削除ができます。
 
-![IMG_0121.png (987.2 kB)](https://img.esa.io/uploads/production/attachments/662/2017/12/07/1264/159d4259-8093-4ce0-abf6-646e172a726c.png)
+![IMG_0121.png (987.2 kB)](https://raw.githubusercontent.com/dessart/pressdoc/gh-pages/images/admin_infos/2017_12_07_6.png)
 
 「☓」ボタンを押すことで、指定したブロックを削除することができます。
 
@@ -65,7 +65,7 @@ categories: faq
 ボタンを押すと、「テキスト」と「画像・動画」のボタンが出てきます。
 任意のボタンを押して、ブロックを追加できます。
 
-![IMG_0122.jpg (694.2 kB)](https://img.esa.io/uploads/production/attachments/662/2017/12/07/1264/7e6539ae-30bd-4fcc-baba-e27b935dc997.jpg)
+![IMG_0122.jpg (694.2 kB)](https://raw.githubusercontent.com/dessart/pressdoc/gh-pages/images/admin_infos/2017_12_07_7.jpg)
 
 
 ## 「@」と「#」を使う
@@ -80,7 +80,7 @@ categories: faq
 文中にハッシュタグを挿入する方法と、記事の各種設定画面でハッシュタグを付ける方法があります。
 各種設定画面でのハッシュタグ設定方法は後述します。
 
-![IMG_0127.png (848.8 kB)](https://img.esa.io/uploads/production/attachments/662/2017/12/07/1264/22ee65a8-7533-4560-9b7b-936f065f584d.png)
+![IMG_0127.png (848.8 kB)](https://raw.githubusercontent.com/dessart/pressdoc/gh-pages/images/admin_infos/2017_12_07_8.png)
 
 
 ## プレビューで記事を確認する
@@ -88,14 +88,14 @@ categories: faq
 記事を投稿する前に、表示の確認をすることができます。
 画面右下にある「プレビュー」ボタンを押してみましょう。
 
-![IMG_0127.png (828.8 kB)](https://img.esa.io/uploads/production/attachments/662/2017/12/07/1264/ebb79b1c-af3c-400e-8138-85150374883e.png)
-![IMG_0128.jpg (1.8 MB)](https://img.esa.io/uploads/production/attachments/662/2017/12/07/1264/9021fdfc-5ed3-4e33-b239-1edf8f98e597.jpg)
+![IMG_0127.png (828.8 kB)](https://raw.githubusercontent.com/dessart/pressdoc/gh-pages/images/admin_infos/2017_12_07_9.png)
+![IMG_0128.jpg (1.8 MB)](https://raw.githubusercontent.com/dessart/pressdoc/gh-pages/images/admin_infos/2017_12_07_10.jpg)
 
 
 プレビューが確認できたら、記事投稿画面に戻ります。
 プレビュー画面の下にある「＜戻る」ボタンを押すことで、記事投稿画面に戻ることができます。
 
-![IMG_0129.png (1.5 MB)](https://img.esa.io/uploads/production/attachments/662/2017/12/07/1264/1f015430-22e7-4b60-8d97-b5638b3f4acc.png)
+![IMG_0129.png (1.5 MB)](https://raw.githubusercontent.com/dessart/pressdoc/gh-pages/images/admin_infos/2017_12_07_11.png)
 
 
 
@@ -106,7 +106,7 @@ categories: faq
 
 「この記事のバックアップ一覧を表示」を押すと、自動的にバックアップされた一覧を見ることができます。
 
-![IMG_0130.jpg (306.4 kB)](https://img.esa.io/uploads/production/attachments/662/2017/12/07/1264/6101ac8e-5478-44e6-a283-d9a18d6bd70c.jpg)
+![IMG_0130.jpg (306.4 kB)](https://raw.githubusercontent.com/dessart/pressdoc/gh-pages/images/admin_infos/2017_12_07_12.jpg)
 
 この画面から、記事を任意の状態に戻すことができます。
 
@@ -123,7 +123,7 @@ categories: faq
 「# タグを入力」の欄に、ハッシュタグを入力することができます。
 こちらの画面で入力したハッシュタグは、投稿した記事の下に追加されます。
 
-![IMG_0132.jpg (311.2 kB)](https://img.esa.io/uploads/production/attachments/662/2017/12/07/1264/ac938999-e584-4f52-9d29-d8716894c2fd.jpg)
+![IMG_0132.jpg (311.2 kB)](https://raw.githubusercontent.com/dessart/pressdoc/gh-pages/images/admin_infos/2017_12_07_13.jpg)
 
 
 ## 記事のアイコン画像を設定する
@@ -132,7 +132,7 @@ categories: faq
 アイコン画像は、マイページの記事一覧や、SNSでシェアされたときに表示されるOGP画像として設定されます。
 「記事アイコンを変更」を押して、任意の画像を選択してください。
 
-![IMG_0134.jpg (813.5 kB)](https://img.esa.io/uploads/production/attachments/662/2017/12/07/1264/dde01e99-e150-4ad8-b874-a87863a41b24.jpg)
+![IMG_0134.jpg (813.5 kB)](https://raw.githubusercontent.com/dessart/pressdoc/gh-pages/images/admin_infos/2017_12_07_14.jpg)
 
 
 ## 「今すぐ投稿」「予約投稿」を設定する
@@ -143,7 +143,7 @@ categories: faq
 チェックを入れると、時間設定をするボタンが表示されます。
 時間設定をするボタンを押すことで、任意の時間を設定することができます。
 
-![IMG_0135.jpg (395.7 kB)](https://img.esa.io/uploads/production/attachments/662/2017/12/07/1264/cb265f21-73e9-4a41-8d03-6af26df23443.jpg)
+![IMG_0135.jpg (395.7 kB)](https://raw.githubusercontent.com/dessart/pressdoc/gh-pages/images/admin_infos/2017_12_07_15.jpg)
 
 
 ## 記事投稿後
@@ -151,7 +151,7 @@ categories: faq
 これで記事が投稿されました。
 投稿した記事をSNSなどにシェアして、みんなに見てもらいましょう！
 
-![IMG_0136.jpg (306.8 kB)](https://img.esa.io/uploads/production/attachments/662/2017/12/07/1264/0cfa5f56-ad90-4008-babf-b59534d0448b.jpg)
+![IMG_0136.jpg (306.8 kB)](https://raw.githubusercontent.com/dessart/pressdoc/gh-pages/images/admin_infos/2017_12_07_16.jpg)
 
 ***
 
