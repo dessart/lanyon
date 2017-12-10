@@ -1,0 +1,23 @@
+{
+  "name": "pressdoc",
+  "version": "1.0.0",
+  "description": "Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dessart/pressdoc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dessart/pressdoc/issues"
+  },
+  "homepage": "https://github.com/dessart/pressdoc#readme",
+  "devDependencies": {
+    "doctoc": "^1.3.0"
+  }
+}
