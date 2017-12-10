@@ -1,0 +1,2 @@
+#!/bin/sh
+git diff --name-only --diff-filter=AM --cached | grep 'README.md' | xargs -I{} sh -c './node_modules/doctoc/doctoc.js {}; git add {}'

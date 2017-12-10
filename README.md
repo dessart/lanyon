@@ -1,22 +1,39 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [PRESS DOCのローカル開発環境構築](#press-doc%E3%81%AE%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89)
+- [Lanyon](#lanyon)
+  - [Usage](#usage)
+  - [Options](#options)
+    - [Sidebar menu](#sidebar-menu)
+    - [Themes](#themes)
+    - [Reverse layout](#reverse-layout)
+  - [Development](#development)
+  - [Author](#author)
+  - [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+# PRESS DOCのローカル開発環境構築
+
+```
+$ git clone git@github.com:dessart/pressdoc.git
+$ cd pressdoc
+$ ./setup.sh
+$ npm i
+$ bundle install --path vendor/bundle
+$ bundle exec jekyll server
+```
+
+`http://127.0.0.1:4000` にアクセス
+
 # Lanyon
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
 ![Lanyon](https://f.cloud.github.com/assets/98681/1825266/be03f014-71b0-11e3-9539-876e61530e24.png)
 ![Lanyon with open sidebar](https://f.cloud.github.com/assets/98681/1825267/be04a914-71b0-11e3-966f-8afe9894c729.png)
-
-
-## Contents
-
-- [Usage](#usage)
-- [Options](#options)
-  - [Sidebar menu](#sidebar-menu)
-  - [Themes](#themes)
-  - [Reverse layout](#reverse-layout)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
-
 
 ## Usage
 
