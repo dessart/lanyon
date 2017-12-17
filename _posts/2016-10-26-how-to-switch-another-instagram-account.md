@@ -4,8 +4,6 @@ title: 別のInstagramアカウントでログインしたい
 categories: faq
 ---
 
-## 別のInstagramアカウントでログインしたい
-
 iPhoneの場合
 
 1. PRESSをSafariで開いた状態で、右上のメニューボタンから「その他・設定」で「ログアウト」をしてください。
