@@ -12,68 +12,15 @@
 @import "syntax";
 @import "lanyon";
 
-//20171207 added
-.container .post img {max-width: 80%;margin: 1rem auto;}
-
-body {
-  font-size: 16px;
-}
-ul {
-  padding: 0;
-}
-ol {
-  padding: 0 0 0 30px;
-  list-style: decimal;
-  li {
-    list-style: decimal;
+.container .post {
+  h1 {
+    margin: 2rem auto;
   }
-}
-li {
-  list-style: none;
-}
-
-a, a:hover, a:click, a:visited {
-  color: #158ec2;
-  text-decoration: none;
-  font-size: 15px;
-  font-family: Helvetica, Arial, sans-serif;
-  font-weight: 100;
-}
-h1 {
-  font-size: 20px;
-}
-h2 {
-  font-size: 18px;
-}
-h3 {
-  font-size: 17px;
-}
-h4 {
-  font-size: 16px;
-  margin: 10px 0 15px;
-  text-transform: none;
-  a {
-    color: #666;
-    font-weight: 100;
+  h2 {
+    margin: 2.5rem auto 1.5rem;
   }
-}
-.list {
-  font-size: 16px;
-}
-.list-title {
-  border-bottom: 1px solid #efefef;
-  padding: 0 0 15px 0;
-  margin: 0 0 15px 0;
-  font-size: 20px;
-  font-weight: 100;
-}
-.list-desc {
-  font-size: 15px;
-  margin-bottom: 25px;
-}
-.sidebar {
-  background-color: #44464f;
-}
-.sidebar-toggle {
-  background-color: #fff;
+  img {
+    max-width: 80%;
+    margin: 1rem auto;
+  }
 }
