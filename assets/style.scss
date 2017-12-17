@@ -2,9 +2,15 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import "lanyon";
+// The @import order is based on the lanyon's index.html
+//   1. poole
+//   2. syntax
+//   3. lanyon
+//
+// https://github.com/poole/lanyon/blob/master/_includes/head.html#L18-L20
 @import "poole";
 @import "syntax";
+@import "lanyon";
 
 //20171207 added
 .container .post img {max-width: 80%;margin: 1rem auto;}
