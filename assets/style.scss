@@ -24,3 +24,27 @@
     margin: 1rem auto;
   }
 }
+
+#pressdoc-index {
+  ul {
+    list-style-type: none;
+    padding: 0;
+    li {
+      margin: .5rem 0;
+      a {
+        &:link, &:visited, &:hover, &:focus, &:active {
+          color: #268bd2;
+        }
+      }
+    }
+  }
+}
+
+// Avoid underline displayed in mobile devices
+@media (max-width: 30rem) {
+  a {
+    &:link, &:visited, &:hover, &:focus, &:active {
+      text-decoration: none;
+    }
+  }
+}
