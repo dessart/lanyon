@@ -1,0 +1,50 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// The @import order is based on the lanyon's index.html
+//   1. poole
+//   2. syntax
+//   3. lanyon
+//
+// https://github.com/poole/lanyon/blob/master/_includes/head.html#L18-L20
+@import "poole";
+@import "syntax";
+@import "lanyon";
+
+.container .post {
+  h1 {
+    margin: 2rem auto;
+  }
+  h2 {
+    margin: 2.5rem auto 1.5rem;
+  }
+  img {
+    max-width: 80%;
+    margin: 1rem auto;
+  }
+}
+
+#pressdoc-index {
+  ul {
+    list-style-type: none;
+    padding: 0;
+    li {
+      margin: .5rem 0;
+      a {
+        &:link, &:visited, &:hover, &:focus, &:active {
+          color: #268bd2;
+        }
+      }
+    }
+  }
+}
+
+// Avoid underline displayed in mobile devices
+@media (max-width: 30rem) {
+  a {
+    &:link, &:visited, &:hover, &:focus, &:active {
+      text-decoration: none;
+    }
+  }
+}

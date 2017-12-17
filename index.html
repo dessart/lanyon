@@ -4,31 +4,61 @@ title: Home
 published: true
 ---
 
-<h3 class="list-title">PRESSに関する使い方・Q&amp;A</h3>
-<p class="list-desc">PRESSはインスタグラムと連携したNo1ブログサービスです。誰でもかんたんにインスタグラムの写真を使ってブログを投稿する事が出来ます。使い方、よくある質問は下記をご参照下さい。<p>
-
-<h4><a href="/guide">使い方</a></h4>
-<div class="list">
-<ul>
-  {% for guide in site.categories.guide %}
-  <li>
-    <a href="{{ guide.url }}">
-      {{ guide.title }}
-    </a>
-  </li>
-  {% endfor %}
-</ul>
+<div id="pressdoc-index" class="post">
+  <section>
+    <h1 class="post-title">PRESSに関する使い方・Q&amp;A</h1>
+    <p>PRESSはインスタグラムと連携したNo1ブログサービスです。誰でもかんたんにインスタグラムの写真を使ってブログを投稿する事が出来ます。使い方、よくある質問は下記をご参照下さい。<p>
+  </section>
+  {% if site.categories.guide %}
+    <section>
+      <h2>使い方</h2>
+      <ul>
+        {% for guide in site.categories.guide %}
+          <li><a href="{{ guide.url }}">{{ guide.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endif %}
+  {% if site.categories.faq%}
+    <section>
+      <h2>よくある質問</h2>
+      <ul>
+        {% for faq in site.categories.faq %}
+          <li><a href="{{ faq.url }}">{{ faq.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endif %}
 </div>
 
-<h4><a href="/faq">よくある質問</a></h4>
-<div class="list">
-<ul>
-  {% for faq in site.categories.faq %}
-  <li>
-    <a href="{{ faq.url }}">
-      {{ faq.title }}
-    </a>
-  </li>
-  {% endfor %}
-</ul>
-</div>
+
+{% comment %} <main id="pressdoc-main-page">
+  <h1>PRESSに関する使い方・Q&amp;A</h1>
+  <p class="list-desc">PRESSはインスタグラムと連携したNo1ブログサービスです。誰でもかんたんにインスタグラムの写真を使ってブログを投稿する事が出来ます。使い方、よくある質問は下記をご参照下さい。<p>
+
+  <h4><a href="/guide">使い方</a></h4>
+  <div class="list">
+  <ul>
+    {% for guide in site.categories.guide %}
+    <li>
+      <a href="{{ guide.url }}">
+        {{ guide.title }}
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+  </div>
+
+  <h4><a href="/faq">よくある質問</a></h4>
+  <div class="list">
+  <ul>
+    {% for faq in site.categories.faq %}
+    <li>
+      <a href="{{ faq.url }}">
+        {{ faq.title }}
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+  </div>
+</main> {% endcomment %}

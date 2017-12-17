@@ -9,13 +9,11 @@ permalink:        none
 title:            PRESS
 tagline:          ''
 description:      ''
-url:              http://lanyon.getpoole.com
+url:              http://doc.pressblog.me
 
 author:
   name:           ''
-  url:            
-
-paginate:         5
+  url:
 
 # Custom vars
 version:          1.0.0
