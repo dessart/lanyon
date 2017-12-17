@@ -20,3 +20,6 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/dessart/pressdoc
+
+prose:
+  media: images
