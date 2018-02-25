@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 記事の書き方
-categories: faq
+categories: guide
 ---
 
 記事を書くための基本的な手順です。
