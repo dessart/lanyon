@@ -2,15 +2,25 @@
 layout: post
 title: 別のInstagramアカウントでログインしたい
 categories: faq
+published: true
 ---
 
-iPhoneの場合
+● iPhoneをお使いの方
 
-1. PRESSをSafariで開いた状態で、右上のメニューボタンから「その他・設定」で「ログアウト」をしてください。
-2. Safariで「[https://www.instagram.com/](https://www.instagram.com/)」へアクセスして、マイページへ移動してください。
-3. マイページの「…」から「ログアウト」をしてください。
-4. 以上の作業を行うと、SafariでInstagramとPRESSからログアウトされます。
-5. InstagramとPRESSからログアウトされた状態が確認されたら「[https://pressblog.me/](https://pressblog.me/)」へ、アクセスしてください。
-6. ログインボタンを押して、希望するアカウントからログインしてください。
+**※ すべて[Safari]上で操作を行います。**
 
-上記の方法を試した上で、違うInstagramアカウントでログインができない場合は、運営にお問い合わせいただければこちらで調査した上で返信させていただきます。
+1. PRESS のアカウントをログアウトします
+「[PRESS](https://pressblog.me/ "PRESS")」 へアクセス。管理画面より[[その他・設定](https://pressblog.me/about/ "about - PRESS")]よりログアウト。
+
+2. Instagram のアカウントをログアウトします
+「[Instagram](https://www.instagram.com/)」 へアクセス。プロフィールページ[設定]よりログアウト。
+ブラウザ上でPRESSとInstagramの両方が未ログインの状態になります。
+
+3. もう一度PRESSにアクセスします
+1、2の手順が正しく行われた状態で[アクセス](https://pressblog.me/ "PRESS")すると、未ログインページが表示されます。
+
+4. PRESSにログインします
+切り替えたいアカウント情報を入力。ログインボタンを押すと、アカウントが切り替わります。
+
+▶ 解決できない時😢
+お手数ですが、[[チャットでお問い合わせ](https://pressblog.me/inquiries/new)] よりお知らせください。カスタマーサポートが詳しくお話を伺います。
