@@ -5,7 +5,7 @@ categories: faq
 published: true
 ---
 
-● iPhoneをお使いの方
+### ● iPhoneをお使いの方
 
 **※ すべて[Safari]上で操作を行います。**
 
