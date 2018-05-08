@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ログアウトしても入れない場合
-published: false
+published: true
 ---
 
 Instagramアプリからログアウトした場合、
